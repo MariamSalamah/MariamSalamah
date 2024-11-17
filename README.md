@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java backend Programming <br>- ⚡ In my free time I read or take good pictures.</p>
+<p align="left">📚 I'm currently learning Java backend Programming<br><br>⚡ In my free time I read or take good pictures.</p>
 
 ###
 
