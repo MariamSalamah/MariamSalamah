@@ -7,6 +7,15 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">📚 I'm currently learning Java backend Programming <br>- ⚡ In my free time I read or take good pictures.</p>
+
+###
+
+
 <img align="right" height="150" src="https://img.freepik.com/free-vector/cute-woman-working-laptop-with-fire-cartoon-vector-icon-illustration-people-technology-isolated_138676-6250.jpg?t=st=1731490949~exp=1731494549~hmac=0ffb2b853de9b6a0e9397a2261c3cb3430bdc9d396c4b8491db3ce4c59718017&w=740"  />
 
 
