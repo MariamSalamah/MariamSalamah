@@ -9,11 +9,9 @@
 
 <img align="right" height="150" src="https://img.freepik.com/free-vector/cute-woman-working-laptop-with-fire-cartoon-vector-icon-illustration-people-technology-isolated_138676-6250.jpg?t=st=1731490949~exp=1731494549~hmac=0ffb2b853de9b6a0e9397a2261c3cb3430bdc9d396c4b8491db3ce4c59718017&w=740"  />
 
-#
-
 <h2 align="left">I code with</h2>
 
-#
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
