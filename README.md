@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
- <a href="mailto:mariam.mohamed581@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="35" alt="gmail new logo" style="vertical-align: middle;" /></a> 
+ <a href="mailto:mariam.mohamed581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" height="35" alt="Gmail" /></a> 
 <!-- <a href="https://mail.google.com/mail/u/?authuser=mariam.mohamed581@gmail.com)"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>  -->
   <a href="https://www.linkedin.com/in/mariamsalamah"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a> 
 <!--   <a href=""><img src="https://img.shields.io/static/v1?message=Website&logo=website&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  /></a> 
