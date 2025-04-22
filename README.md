@@ -45,9 +45,14 @@
 ###
 
 <div align="center">
- <a href="mailto:mariam.mohamed581@gmail.com"><img src="https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" /></a> 
+ <a href="mailto:mariam.mohamed581@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" 
+         height="28" 
+         style="vertical-align: middle; margin-right: 5px; border: 1px solid #EA4335; border-radius: 4px; padding: 3px 8px;" 
+         alt="Gmail Logo" /></a> 
 <!-- <a href="https://mail.google.com/mail/u/?authuser=mariam.mohamed581@gmail.com)"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>  -->
-  <a href="https://www.linkedin.com/in/mariamsalamah"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a> 
+  <a href="https://www.linkedin.com/in/mariamsalamah">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         height="35" 
+         alt="LinkedIn" /></a> 
 <!--   <a href=""><img src="https://img.shields.io/static/v1?message=Website&logo=website&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  /></a> 
 </div> -->
 
