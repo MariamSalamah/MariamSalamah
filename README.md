@@ -11,11 +11,17 @@
 
 ###
 
-<p align="left">🚀 Fullstack Developer focused on building modern, responsive web applications<br><br>
-💻 Working with React.js, Angular, and creating clean UI using Bootstrap, Tailwind CSS, and Material UI<br><br>
-☕ Currently learning Java Backend Development using Spring Boot to build scalable systems<br><br>
-📚 Passionate about clean code, problem-solving, and continuous learning<br><br>
-⚡ In my free time, I enjoy reading and photography</p>
+<p align="left">
+🚀 Full Stack Developer with a strong focus on React.js, building modern, responsive, and user-friendly web applications<br><br>
+
+💻 Strong experience with React.js, JavaScript, and UI development using Bootstrap, Tailwind CSS, and Material UI<br><br>
+
+⚙️ Experienced in backend development using Java (Spring Boot), and familiar with Node.js and Angular<br><br>
+
+📚 Passionate about clean code, problem-solving, and continuously improving my skills in both frontend and backend development<br><br>
+
+⚡ In my free time, I enjoy reading and photography
+</p>
 
 ###
 
