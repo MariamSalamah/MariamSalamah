@@ -18,6 +18,8 @@
 
 ⚙️ Experienced in backend development using Java (Spring Boot), and familiar with Node.js and Angular<br><br>
 
+🧠 Solid understanding of Software Engineering principles including SDLC, system design, UML diagrams, and requirements analysis<br><br>
+
 📚 Passionate about clean code, problem-solving, and continuously improving my skills in both frontend and backend development<br><br>
 
 ⚡ In my free time, I enjoy reading and photography
